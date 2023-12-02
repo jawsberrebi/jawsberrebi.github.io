@@ -1,30 +1,9 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       Musique
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  Musique
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  Musique
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       Musique
-  ko-KR   : *KO
-  fr      : &FR       Musique
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
 key: page-music
 ---
+
+# Musique
 
 ## Le Mystérieux Orchestre Électronique de Paris
 ![atwork](images/atwork.jpg){:.rounded}{:.shadow}
