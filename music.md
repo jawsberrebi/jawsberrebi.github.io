@@ -26,6 +26,8 @@ titles:
 key: page-music
 ---
 
+# Musique
+
 ## Le Mystérieux Orchestre Électronique de Paris
 ![atwork](images/atwork.jpg){:.rounded}{:.shadow}
 
