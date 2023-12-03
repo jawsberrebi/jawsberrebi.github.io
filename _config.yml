@@ -20,7 +20,7 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Richard Berrebi
+title   : Richard BERREBI
 description: > # this means to ignore newlines until "Language & timezone"
   Portfolio & CV
 
@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Richard Berrebi
+  name      : Richard BERREBI
   url       :
   #avatar    : # path or url of avatar image (square)
   email     : rd.berrebi@gmail.com
