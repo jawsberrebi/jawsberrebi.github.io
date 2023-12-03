@@ -5,4 +5,22 @@
   font-weight: bold;
 }
 
+.header__brand > a:hover{
+  text-decoration : underline;
+}
+
+.credits{
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.date{
+  color:#0000CD;
+  font-weight: bolder;
+}
+
+.project_titles{
+  color:#00308F;
+}
+
 /* end custom scss snippet */
