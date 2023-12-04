@@ -60,11 +60,11 @@ key: page-portfolio
 
 ##### <span class="date"> 2023 </span> - Algorithme de restauration d'image (MATLAB) - [Lien vers le repository](https://github.com/jawsberrebi/Image_Restoration)
 
-  Conception d'un algorithme de restauration d'images comportant des lignes décallées de quelques pixels.
+  Conception d'un algorithme de restauration d'images comportant des lignes décalées de quelques pixels.
 
 ##### <span class="date"> 2023 </span> - Cypher Project (C, Verilog, Système embarqué)
 
-  Développement et implémentation d'un algorithme de cryptage de chaînes de caractères (en C embarqué) dans un FPGA.
+  Développement et implémentation d'un algorithme de cryptage de chaînes de caractères (en langage C pour systèmes embarqués) dans un FPGA.
 
 ##### <span class="date"> 2022 </span> - Ricochet Robot (Java/JavaFX) - [Lien vers le repository](https://github.com/jawsberrebi/ricochet_robot)
 
