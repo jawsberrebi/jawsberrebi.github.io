@@ -9,7 +9,7 @@ key: page-music
 
 Premier album à paraître chez [Versatile Records](https://versatilerecords.bandcamp.com) le 01/01/2024.
 
-Extrait en écoute [ici](https://rinse.fm/episodes/gilbr-28-11-2023-1500/) (vers 10:00).
+Extrait en écoute [ici](https://rinse.fm/episodes/gilbr-28-11-2023-1500/) (vers 10 minutes).
 
 > "In 2020, Le Mystérieux Orchestre Électronique de Paris started recording some pieces of Furniture Music, for activities requiring concentration, or simply for relaxation.
 The Orchestra uses generative music processes. Electronic tools are considered interpreters, who are bona fide part of the ensemble. Analog synths are used along composition software. One of the main dogmas is the exclusion of any percussive instrument. These purely electronic sounds are contrasted with field recordings gleaned in various places.

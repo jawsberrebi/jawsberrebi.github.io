@@ -44,6 +44,12 @@ key: page-portfolio
 <br/>
 
 ### Terminés
+##### <span class="date"> 2023 </span> - DJ Mixer (Pure Data) - [Lien vers le repository](https://github.com/jawsberrebi/dj-mixer)
+  
+  ![DJ Mixer](images/dj_mixer.PNG)
+
+  Conception d'une table de mixage de DJ (avec effets, EQs, filtres, crossfader, feedback et sortie CUE) à deux entrées stéréo sur Pure Data.
+
 ##### <span class="date"> 2023 </span> - Filtre IIR (MATLAB) - [Lien vers le repository](https://github.com/jawsberrebi/Noise_Cancelling_IIR_Filter)
 
   Conception d'un filtre IIR pour supprimer des fréquences parasites (détection automatique) dans un signal audio.
