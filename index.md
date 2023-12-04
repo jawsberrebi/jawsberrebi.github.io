@@ -79,7 +79,7 @@ key: page-portfolio
   Développement d'un site internet en PHP, Javascript et HTML/CSS, avec un système de gestion de comptes (stockés dans une base de données en SQL), d'affichage d'informations (page d'accueil, liste des comptes 
   et leurs informations personnelles) pour le suivi de patients en hôpital.
 
-##### <span style="color:#0066b2"> 2022 </span> - Mini RPG 3000 (Java/JavaFX) - [Lien vers le repository](https://github.com/jawsberrebi/Mini_RPG_Lite_3000)
+##### <span class="date"> 2022 </span> - Mini RPG 3000 (Java/JavaFX) - [Lien vers le repository](https://github.com/jawsberrebi/Mini_RPG_Lite_3000)
 
   ![Mini RPG 3000](images/RPG.PNG)
 
@@ -88,9 +88,11 @@ key: page-portfolio
 ##### <span class="date"> 2022 </span> - Station électronique de récupération de mesures (électronique analogique, Energia, Arduino)
   ![Centrale electronique](images/centrale_electronique.PNG)
 
-  Conception d'une station de récupération de mesures (rythme cardiaque, concentration en CO2, température/humidité, niveau sonore) avec un microcontrôleur.
+  Conception d'une station de récupération de mesures (rythme cardiaque, taux de CO2, température/humidité, niveau sonore) avec un microcontrôleur.
 
-  Formatage des données des mesures récupérées pour un envoi par Bluetooth.
+  Formatage des données des mesures récupérées pour un envoi par Bluetooth et pour un affichage sur un écran LCD (intégré à la station).
 
-##### <span class="date"> 2020 </span> - Développement d'un sonomètre analogique (électronique analogique) avec affichage du niveau sonore sur un bargraphe 
+##### <span class="date"> 2020 </span> - Sonomètre (électronique analogique)
   ![Sonometre](images/sonometre.jpg)
+
+  Développement d'un sonomètre analogique avec affichage du niveau sonore sur un bargraphe (la sensibilité du sonomètre est paramétrable avec un potentiomètre).
