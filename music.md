@@ -7,7 +7,7 @@ key: page-music
 ## Le Mystérieux Orchestre Électronique de Paris
 ![atwork](images/atwork.jpg){:.rounded}{:.shadow}
 
-Premier album à paraître chez [Versatile Records](https://versatilerecords.bandcamp.com) le 01/01/2024.
+Premier album à paraître chez [Versatile Records](https://versatilerecords.bandcamp.com) début 2024.
 
 Extrait en écoute [ici](https://rinse.fm/episodes/gilbr-28-11-2023-1500/) (vers 10 minutes).
 
