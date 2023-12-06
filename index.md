@@ -48,7 +48,7 @@ key: page-portfolio
   
   ![DJ Mixer](images/dj_mixer.PNG)
 
-  Conception d'une table de mixage de DJ (avec effets, EQs, filtres, crossfader, feedback et sortie CUE) à deux entrées stéréo sur Pure Data.
+  Conception d'une table de mixage de DJ (avec effets, EQ 3 bandes, filtres, crossfader, feedback et sortie CUE) à deux entrées stéréo sur Pure Data.
 
 ##### <span class="date"> 2023 </span> - Filtre IIR (MATLAB) - [Lien vers le repository](https://github.com/jawsberrebi/Noise_Cancelling_IIR_Filter)
 
@@ -76,14 +76,14 @@ key: page-portfolio
 
   ![Site web 1](images/siteweb1.png)
 
-  Développement d'un site internet en PHP, Javascript et HTML/CSS, avec un système de gestion de comptes (stockés dans une base de données en SQL), d'affichage d'informations (page d'accueil, liste des comptes 
-  et leurs informations personnelles) pour le suivi de patients en hôpital.
+  Développement d'un site internet en PHP, Javascript et HTML/CSS, avec un système de gestion de comptes (stockés dans une base de données en SQL et sécurisés grâce à du PHP), d'affichage d'informations (page d'accueil, liste des comptes 
+  et leurs informations personnelles) pour le suivi de patients en hôpital. Les utilisateurs disposent de plusieurs fonctionnalités (connexion, modification des informations personnelles, suppression du compte, recherche...).
 
 ##### <span class="date"> 2022 </span> - Mini RPG 3000 (Java/JavaFX) - [Lien vers le repository](https://github.com/jawsberrebi/Mini_RPG_Lite_3000)
 
   ![Mini RPG 3000](images/RPG.PNG)
 
-  Développement d'un jeu de type RPG (sous forme d'un système de fenêtres et de boîtes de dialogue).
+  Développement d'un jeu de type RPG (sous forme d'un système de fenêtres et de boîtes de dialogue). Chaque personnage dispose d'actions spécifiques (attaquer l'ennemi, guérir un personnage ou se guérir, utiliser des consommables, se protéger...).
 
 ##### <span class="date"> 2022 </span> - Station électronique de récupération de mesures (électronique analogique, Energia, Arduino)
   ![Centrale electronique](images/centrale_electronique.PNG)
