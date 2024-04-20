@@ -6,17 +6,25 @@ key: page-portfolio
 
 ## <span class="project_titles">Projets Professionnels </span> 
 ### En cours
+##### <span class="date"> 2024 </span> - [IRCAM Amplify](https://www.ircamamplify.com/) - iadspy (Traitement du signal, Python) 
+
+  Développement d'une bibliothèque pour le traitement du signal en langage Python (Implémentation d'un égaliseur paramétrique, de compresseurs...).
+  
+<br/>
+
+
+
+### Terminé
 ##### <span class="date"> 2023-2024 </span> - [CCRMA](https://ccrma.stanford.edu) - <span style="color:green"> FAST </span> - Fast Audio Signal-processing Technologies on FPGA (FAUST, Linux, Système embarqué) 
 
   Développement et implémentation d'un algorithme en FAUST (dans un FPGA) pour la spatialisation de plusieurs sources audio sur un système d'enceintes (multicanal).
   
-  Intégration de la FPGA dans un réseau d'échanges de sources audio et de diffusion sur un système d'enceintes.
+  Intégration de la FPGA dans un réseau d'échange de sources audio et de diffusion sur un système d'enceintes.
 
   Plus d'informations [ici](https://fast.grame.fr)
 
 <br/>
 
-### Terminé
 ##### <span class="date"> 2022 </span> - [Akoustic Arts](https://www.akoustic-arts.com) - Compresseurs multi-bandes (Sigma Studio, ADAU1451)
 
   Conception et mise en œuvre d’algorithmes de traitement du son (compresseurs, générateurs harmoniques, limiteurs, filtres, modulation DSB) sur Sigma Studio.
