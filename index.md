@@ -13,8 +13,7 @@ key: page-portfolio
 <br/>
 
 
-
-### Terminé
+### Terminés
 ##### <span class="date"> 2023-2024 </span> - [CCRMA](https://ccrma.stanford.edu) - <span style="color:green"> FAST </span> - Fast Audio Signal-processing Technologies on FPGA (FAUST, Linux, Système embarqué) 
 
   Développement et implémentation d'un algorithme en FAUST (dans un FPGA) pour la spatialisation de plusieurs sources audio sur un système d'enceintes (multicanal).
