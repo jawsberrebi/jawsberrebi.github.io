@@ -4,10 +4,11 @@ title: Musique
 key: page-music
 ---
 
-## Le Mystérieux Orchestre Électronique de Paris - Musique ambient/électronique
+## Le Mystérieux Orchestre Électronique de Paris
+### Musique électronique ambient/électronique
 ![atwork](images/atwork.jpg){:.rounded}{:.shadow}
 
-Premier album paru chez [Versatile Records](https://versatilerecords.bandcamp.com) le 5 février 2024. En écoute sur BandCamp [ici](https://versatilerecords.bandcamp.com/album/le-myst-rieux-orchestre-lectronique-de-paris).
+Premier album paru sur [Versatile Records](https://versatilerecords.bandcamp.com) le 5 février 2024. En écoute sur BandCamp [ici](https://versatilerecords.bandcamp.com/album/le-myst-rieux-orchestre-lectronique-de-paris).
 
 > "In 2020, Le Mystérieux Orchestre Électronique de Paris started recording some pieces of Furniture Music, for activities requiring concentration, or simply for relaxation.
 The Orchestra uses generative music processes. Electronic tools are considered interpreters, who are bona fide part of the ensemble. Analog synths are used along composition software. One of the main dogmas is the exclusion of any percussive instrument. These purely electronic sounds are contrasted with field recordings gleaned in various places.
