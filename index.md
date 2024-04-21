@@ -4,7 +4,7 @@ title: Portfolio
 key: page-portfolio
 ---
 
-## <span class="project_titles">Projets Professionnels </span> 
+## <span class="project_titles">Projets professionnels </span> 
 ### En cours
 ##### <span class="date"> 2024 </span> - [IRCAM Amplify](https://www.ircamamplify.com/) - iadspy (Traitement du signal, Python) 
 
@@ -34,7 +34,7 @@ key: page-portfolio
 <br/>
 <br/>
 
-## <span class="project_titles">Projets Personnels </span> 
+## <span class="project_titles">Projets personnels </span> 
 ### En cours
 ##### <span class="date"> 2023 </span> - Octaver (C++/JUCE) - [Lien vers le repository](https://github.com/jawsberrebi/octaver)
 
