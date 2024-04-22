@@ -5,7 +5,7 @@ key: page-music
 ---
 
 ## Le Mystérieux Orchestre Électronique de Paris
-### Musique électronique ambient/électronique
+### Musique électronique/ambient
 ![atwork](images/atwork.jpg){:.rounded}{:.shadow}
 
 Premier album paru sur [Versatile Records](https://versatilerecords.bandcamp.com) le 5 février 2024. En écoute sur BandCamp [ici](https://versatilerecords.bandcamp.com/album/le-myst-rieux-orchestre-lectronique-de-paris).
